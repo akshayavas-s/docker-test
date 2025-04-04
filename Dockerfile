@@ -6,4 +6,4 @@ WORKDIR /user/app/
 
 EXPOSE 8090
 
-ENTRYPOINT ["java", "-jar", "demo-pjt.jar"]
+ENTRYPOINT ["java", "-jar", "demo-app.jar"]
